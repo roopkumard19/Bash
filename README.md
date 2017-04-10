@@ -1,2 +1,2 @@
 # Bash
-This repository is for my Bash training
+This repository contains my Bash training programs
