@@ -1,0 +1,2 @@
+error.sh: line 4: syntax error near unexpected token `;;'
+error.sh: line 4: `mx=10;;;;'
